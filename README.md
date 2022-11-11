@@ -14,3 +14,4 @@ Project is created with:
 
 - npm
 - javascript
+- api: openweathermap
